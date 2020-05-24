@@ -1,14 +1,12 @@
-# Radio Player Plus
+# Noolite РС11* transmitters
 
-This is a web radio player controllable with HomeKit and Siri.
+https://www.noo.com.by/adapter-noolite-pc.html
 
-Configure your favorite radio stations by supplying the stream URLs in your homebridge config. See the below example config file.
-
-Sound will be streamed to the default audio out.
+Support only PC11* transmitters.
 
 ## Installation
 
-```npm install -g https://github.com/francesco-kriegel/homebridge-radio-player-plus.git```
+```npm install -g https://github.com/...```
 
 ## Configuration
 
